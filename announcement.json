@@ -1,6 +1,7 @@
 {
   "id": "notice-2026-09-26",
-  "title": "New timetables",
-  "message": "Your timetables have been updated!",
-  "active": true
+  "title": "Timetable updates",
+  "message": "You will be logged out to update your timetable.",
+  "active": true,
+  "action": "logout"
 }
