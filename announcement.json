@@ -2,6 +2,6 @@
   "id": "notice-2026-10-05",
   "title": "Timetable updates",
   "message": "You will be logged out to update your timetable.",
-  "active": true,
+  "active": false,
   "action": "logout"
 }
